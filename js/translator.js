@@ -1966,26 +1966,26 @@ $(document).ready(function() {
             $('#mySidenav div:eq(3)').find('span').text('Source');
             $('#mySidenav div:eq(4)').find('span').text('Version');
             $('#mySidenav div:eq(5)').find('span').text('About');
-        } else if (lan == 'af') {
-            $('.stylebtn').text('Tik in');
-            $('.mobile p:eq(0)').text('Kyk na 6000+ TV -kanale ...');
-            $('.mobile p:eq(1)').text('Kyk films, reekse, anime ...');
-            $('.mobile p:eq(2)').text('Luister na 28000+ radiostasies ...');
-            $('.mobile p:eq(3)').text('Lees meer as 100000+ boeke ...');
-            $('.mobile p:eq(4)').text('Lees baie mangaboeke ...');
-            $('.mobile p:eq(5)').text('Luister na The World Music ...');
-            $('.mobile p:eq(6)').text('Konstrueer tot weergawe 9.0.0');
-            $('.mobile p:eq(7)').text('Porno video\'s ...');
-            $('h2').text('kies');
-            $('#selectform input:eq(0)').next().text('Land');
-            $('#selectform input:eq(1)').next().text('Taal');
-            $('#selectform input:eq(2)').next().text('Kategorie');
-            $('#mySidenav div:eq(0)').find('span:eq(0)').text('sensitiewe inhoud');
-            $('#mySidenav div:eq(1)').find('span').text('Taal');
-            $('#mySidenav div:eq(2)').find('span').text('duidelik');
-            $('#mySidenav div:eq(3)').find('span').text('Bron');
-            $('#mySidenav div:eq(4)').find('span').text('weergawe');
-            $('#mySidenav div:eq(5)').find('span').text('Ongeveer');
+        } else if (lan == 'el') {
+            $('.stylebtn').text('Έναρξη');
+            $('.mobile p:eq(0)').text('Δείτε τώρα 6000+ κανάλια τηλεόρασης ...');
+            $('.mobile p:eq(1)').text('Δείτε ταινίες, σειρές, anime ...');
+            $('.mobile p:eq(2)').text('Ακούστε 28000+ ραδιοφωνικούς σταθμούς ...');
+            $('.mobile p:eq(3)').text('Διαβάστε 100000+ βιβλία ...');
+            $('.mobile p:eq(4)').text('Ξεφυλίστε Manga περιοδικά ...');
+            $('.mobile p:eq(5)').text('Ακούστε την Μουσική του Κόσμου ...');
+            $('.mobile p:eq(6)').text('Δημιουργία έκδοσης 9.0.0');
+            $('.mobile p:eq(7)').text('Υλικό άνω τον 18 σε video ...');
+            $('h2').text('Επιλογή');
+            $('#selectform input:eq(0)').next().text('Χώρες');
+            $('#selectform input:eq(1)').next().text('Γλώσσες');
+            $('#selectform input:eq(2)').next().text('Κατηγορίες');
+            $('#mySidenav div:eq(0)').find('span:eq(0)').text('Ευαίσθητο περιεχόμενο');
+            $('#mySidenav div:eq(1)').find('span').text('Γλώσσες');
+            $('#mySidenav div:eq(2)').find('span').text('Καθαρισμός');
+            $('#mySidenav div:eq(3)').find('span').text('Πηγή');
+            $('#mySidenav div:eq(4)').find('span').text('Έκδοση');
+            $('#mySidenav div:eq(5)').find('span').text('Πληροφορίες');
         } else if (lan == 'sq') {
             $('.stylebtn').text('Hyni');
             $('.mobile p:eq(0)').text('Shikoni 6000+ kanale televizive ...');
